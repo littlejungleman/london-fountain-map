@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-27T06:17:22.643650+00:00",
+  "updated_at": "2026-05-27T10:36:27.948111+00:00",
   "fountains": [
     {
       "name": "Select fountain or splash pad",
@@ -97,7 +97,7 @@
       "lat": 51.55837,
       "lon": -0.14892,
       "status": "off",
-      "reported_at": "2026-05-26T22:53:00+00:00"
+      "reported_at": "2026-05-27T07:39:00+00:00"
     },
     {
       "name": "Queen's Park paddling pool",
@@ -138,8 +138,8 @@
       "name": "Swiss Cottage Open Space splash pad, Swiss Cottage",
       "lat": 51.5434,
       "lon": -0.17428,
-      "status": "unknown",
-      "reported_at": null
+      "status": "on",
+      "reported_at": "2026-05-27T06:50:00+00:00"
     },
     {
       "name": "Kilburn Grange Park splash pad",
@@ -335,7 +335,7 @@
       "lat": 51.42163,
       "lon": -0.13271,
       "status": "on",
-      "reported_at": "2026-05-26T10:02:00+00:00"
+      "reported_at": "2026-05-27T08:27:00+00:00"
     },
     {
       "name": "Clapham Common splash pad",
