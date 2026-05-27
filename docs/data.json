@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-05-27T01:33:08.481976+00:00",
+  "updated_at": "2026-05-27T06:17:22.643650+00:00",
   "fountains": [
+    {
+      "name": "Select fountain or splash pad",
+      "lat": null,
+      "lon": null,
+      "status": "unknown",
+      "reported_at": null
+    },
     {
       "name": "Granary Square fountains, King's Cross",
       "lat": 51.5357,
@@ -89,8 +96,8 @@
       "name": "Parliament Hill paddling pool, Hampstead Heath",
       "lat": 51.55837,
       "lon": -0.14892,
-      "status": "on",
-      "reported_at": "2026-05-25T15:48:00+00:00"
+      "status": "off",
+      "reported_at": "2026-05-26T22:53:00+00:00"
     },
     {
       "name": "Queen's Park paddling pool",
@@ -237,7 +244,7 @@
       "lat": 51.51909,
       "lon": -0.0835,
       "status": "on",
-      "reported_at": "2026-05-26T14:55:00+00:00"
+      "reported_at": "2026-05-26T19:50:00+00:00"
     },
     {
       "name": "St Mary's Churchyard Park fountains, Elephant & Castle",
@@ -384,7 +391,7 @@
       "lat": 51.4024,
       "lon": -0.02969,
       "status": "off",
-      "reported_at": "2026-05-26T05:21:00+00:00"
+      "reported_at": "2026-05-26T23:19:00+00:00"
     },
     {
       "name": "Magic Garden water play, Hampton Court Palace",
