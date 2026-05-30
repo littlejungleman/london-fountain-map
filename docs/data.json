@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-30T07:38:17.020325+00:00",
+  "updated_at": "2026-05-30T09:56:24.350890+00:00",
   "fountains": [
     {
       "name": "Select fountain or splash pad",
@@ -145,8 +145,8 @@
       "name": "Kilburn Grange Park splash pad",
       "lat": 51.54783,
       "lon": -0.19501,
-      "status": "unknown",
-      "reported_at": null
+      "status": "off",
+      "reported_at": "2026-05-27T15:04:00+00:00"
     },
     {
       "name": "Paradise Park splash pad, Islington",
