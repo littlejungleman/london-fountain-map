@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T04:49:53.330113+00:00",
+  "updated_at": "2026-06-20T08:19:16.377266+00:00",
   "fountains": [
     {
       "name": "Select fountain or splash pad",
@@ -40,15 +40,15 @@
       "name": "Priory Park paddling pool, Hornsey",
       "lat": 51.58827,
       "lon": -0.11688,
-      "status": "off",
-      "reported_at": "2026-05-29T12:07:00+00:00"
+      "status": "on",
+      "reported_at": "2026-05-26T17:32:00+00:00"
     },
     {
       "name": "Lordship Recreation Ground paddling pool, Tottenham",
       "lat": 51.59942,
       "lon": -0.07621,
-      "status": "on",
-      "reported_at": "2026-05-29T09:19:00+00:00"
+      "status": "off",
+      "reported_at": "2026-05-25T19:47:00+00:00"
     },
     {
       "name": "Bruce Castle Park paddling pool, Tottenham",
@@ -61,8 +61,8 @@
       "name": "Whittington Park water play, Archway",
       "lat": 51.56736,
       "lon": -0.11913,
-      "status": "off",
-      "reported_at": "2026-05-29T09:24:00+00:00"
+      "status": "on",
+      "reported_at": "2026-05-26T13:02:00+00:00"
     },
     {
       "name": "Barnard Park water play, Islington",
@@ -145,8 +145,8 @@
       "name": "Kilburn Grange Park splash pad",
       "lat": 51.54783,
       "lon": -0.19501,
-      "status": "off",
-      "reported_at": "2026-05-27T15:04:00+00:00"
+      "status": "unknown",
+      "reported_at": null
     },
     {
       "name": "Paradise Park splash pad, Islington",
@@ -167,7 +167,7 @@
       "lat": 51.53686,
       "lon": -0.04041,
       "status": "on",
-      "reported_at": "2026-06-19T12:40:00+00:00"
+      "reported_at": "2026-05-26T18:24:00+00:00"
     },
     {
       "name": "Tumbling Bay water play, Queen Elizabeth Olympic Park",
@@ -180,8 +180,8 @@
       "name": "Waterworks Fountains (West Ham Stadium), Queen Elizabeth Olympic Park",
       "lat": 51.53882,
       "lon": -0.01605,
-      "status": "on",
-      "reported_at": "2026-06-10T07:29:00+00:00"
+      "status": "off",
+      "reported_at": "2026-05-26T09:09:00+00:00"
     },
     {
       "name": "Gauging Square fountains, Wapping",
@@ -230,7 +230,7 @@
       "lat": 51.58281,
       "lon": -0.01968,
       "status": "on",
-      "reported_at": "2026-05-29T12:23:00+00:00"
+      "reported_at": "2026-05-26T08:37:00+00:00"
     },
     {
       "name": "Stratford Park paddling pool",
@@ -258,7 +258,7 @@
       "lat": 51.49511,
       "lon": -0.09824,
       "status": "on",
-      "reported_at": "2026-06-18T10:03:00+00:00"
+      "reported_at": "2026-05-26T10:38:00+00:00"
     },
     {
       "name": "Wimbledon Sprinkler Park",
@@ -292,8 +292,8 @@
       "name": "Southwark Park splash pad, Bermondsey",
       "lat": 51.49428,
       "lon": -0.05759,
-      "status": "on",
-      "reported_at": "2026-06-19T10:04:00+00:00"
+      "status": "unknown",
+      "reported_at": null
     },
     {
       "name": "Brockwell Park wet play, Lambeth",
@@ -335,14 +335,14 @@
       "lat": 51.42163,
       "lon": -0.13271,
       "status": "on",
-      "reported_at": "2026-05-28T15:08:00+00:00"
+      "reported_at": "2026-05-27T08:27:00+00:00"
     },
     {
       "name": "Clapham Common splash pad",
       "lat": 51.46124,
       "lon": -0.13757,
-      "status": "on",
-      "reported_at": "2026-05-29T11:40:00+00:00"
+      "status": "off",
+      "reported_at": "2026-05-27T09:40:00+00:00"
     },
     {
       "name": "North Sheen Recreation Ground paddling pool, Richmond",
@@ -363,7 +363,7 @@
       "lat": 51.42682,
       "lon": -0.05206,
       "status": "off",
-      "reported_at": "2026-06-14T13:08:00+00:00"
+      "reported_at": "2026-05-26T12:33:00+00:00"
     },
     {
       "name": "Greenwich Park Playground water play",
@@ -411,8 +411,8 @@
       "name": "Fountain Park Way fountains, Westfield, Wood Lane",
       "lat": 51.50694,
       "lon": -0.22519,
-      "status": "on",
-      "reported_at": "2026-05-28T21:27:00+00:00"
+      "status": "unknown",
+      "reported_at": null
     },
     {
       "name": "Diana Princess of Wales Memorial Fountain, Hyde Park",
@@ -516,8 +516,8 @@
       "name": "Edmond J Safra fountain court at Somerset House",
       "lat": 51.51101,
       "lon": -0.11701,
-      "status": "off",
-      "reported_at": "2026-05-29T11:07:00+00:00"
+      "status": "on",
+      "reported_at": "2026-05-26T09:22:00+00:00"
     },
     {
       "name": "Russell Square Gardens fountain, Bloomsbury",
