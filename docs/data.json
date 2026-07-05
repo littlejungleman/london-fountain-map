@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T04:06:58.125430+00:00",
+  "updated_at": "2026-07-05T07:42:25.409184+00:00",
   "fountains": [
     {
       "name": "Select fountain or splash pad",
@@ -229,8 +229,8 @@
       "name": "Fellowship Square fountains, Walthamstow",
       "lat": 51.58281,
       "lon": -0.01968,
-      "status": "on",
-      "reported_at": "2026-07-04T13:10:00+00:00"
+      "status": "off",
+      "reported_at": "2026-06-25T15:44:00+00:00"
     },
     {
       "name": "Stratford Park paddling pool",
@@ -243,8 +243,8 @@
       "name": "Broadgate Exchange play fountains, Liverpool Street",
       "lat": 51.51909,
       "lon": -0.0835,
-      "status": "off",
-      "reported_at": "2026-07-03T11:51:00+00:00"
+      "status": "on",
+      "reported_at": "2026-05-26T19:50:00+00:00"
     },
     {
       "name": "St Mary's Churchyard Park fountains, Elephant & Castle",
