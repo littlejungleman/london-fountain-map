@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T14:04:37.869521+00:00",
+  "updated_at": "2026-07-06T17:19:32.591799+00:00",
   "fountains": [
     {
       "name": "Select fountain or splash pad",
@@ -216,7 +216,7 @@
       "lat": 51.56088,
       "lon": -0.07946,
       "status": "off",
-      "reported_at": "2026-07-04T14:35:00+00:00"
+      "reported_at": "2026-06-22T20:15:00+00:00"
     },
     {
       "name": "Aldgate Square fountains",
