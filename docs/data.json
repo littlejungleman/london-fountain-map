@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T05:34:04.187451+00:00",
+  "updated_at": "2026-07-09T09:36:49.642562+00:00",
   "fountains": [
     {
       "name": "Select fountain or splash pad",
@@ -300,7 +300,7 @@
       "lat": 51.45298,
       "lon": -0.10867,
       "status": "on",
-      "reported_at": "2026-06-26T15:49:00+00:00"
+      "reported_at": "2026-07-06T09:10:00+00:00"
     },
     {
       "name": "Myatt's Fields splash pad, Camberwell",
