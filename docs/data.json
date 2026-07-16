@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T17:10:57.469667+00:00",
+  "updated_at": "2026-07-16T18:38:52.634375+00:00",
   "fountains": [
     {
       "name": "Select fountain or splash pad",
@@ -152,8 +152,8 @@
       "name": "Paradise Park splash pad, Islington",
       "lat": 51.55271,
       "lon": -0.11293,
-      "status": "unknown",
-      "reported_at": null
+      "status": "on",
+      "reported_at": "2026-07-12T10:32:00+00:00"
     },
     {
       "name": "Barking Splash Park",
@@ -167,7 +167,7 @@
       "lat": 51.53686,
       "lon": -0.04041,
       "status": "off",
-      "reported_at": "2026-06-21T14:46:00+00:00"
+      "reported_at": "2026-07-11T10:54:00+00:00"
     },
     {
       "name": "Tumbling Bay water play, Queen Elizabeth Olympic Park",
@@ -243,8 +243,8 @@
       "name": "Broadgate Exchange play fountains, Liverpool Street",
       "lat": 51.51909,
       "lon": -0.0835,
-      "status": "off",
-      "reported_at": "2026-07-03T11:51:00+00:00"
+      "status": "on",
+      "reported_at": "2026-07-11T16:29:00+00:00"
     },
     {
       "name": "St Mary's Churchyard Park fountains, Elephant & Castle",
@@ -286,7 +286,7 @@
       "lat": 51.45079,
       "lon": 0.14329,
       "status": "on",
-      "reported_at": "2026-06-25T15:28:00+00:00"
+      "reported_at": "2026-07-13T17:46:00+00:00"
     },
     {
       "name": "Southwark Park splash pad, Bermondsey",
@@ -418,8 +418,8 @@
       "name": "Diana Princess of Wales Memorial Fountain, Hyde Park",
       "lat": 51.50366,
       "lon": -0.17349,
-      "status": "off",
-      "reported_at": "2026-06-22T19:38:00+00:00"
+      "status": "on",
+      "reported_at": "2026-07-14T19:18:00+00:00"
     },
     {
       "name": "John Madejski Garden paddling pool, V&A, South Kensington",
