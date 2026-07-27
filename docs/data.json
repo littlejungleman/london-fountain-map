@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T22:02:21.991838+00:00",
+  "updated_at": "2026-07-27T23:32:48.138843+00:00",
   "fountains": [
     {
       "name": "Select fountain or splash pad",
@@ -96,8 +96,8 @@
       "name": "Parliament Hill paddling pool, Hampstead Heath",
       "lat": 51.55837,
       "lon": -0.14892,
-      "status": "on",
-      "reported_at": "2026-07-21T11:46:00+00:00"
+      "status": "off",
+      "reported_at": "2026-06-25T13:10:00+00:00"
     },
     {
       "name": "Queen's Park paddling pool",
@@ -138,8 +138,8 @@
       "name": "Swiss Cottage Open Space splash pad, Swiss Cottage",
       "lat": 51.5434,
       "lon": -0.17428,
-      "status": "off",
-      "reported_at": "2026-07-17T15:10:00+00:00"
+      "status": "on",
+      "reported_at": "2026-06-22T20:41:00+00:00"
     },
     {
       "name": "Kilburn Grange Park splash pad",
@@ -153,7 +153,7 @@
       "lat": 51.55271,
       "lon": -0.11293,
       "status": "on",
-      "reported_at": "2026-07-19T12:43:00+00:00"
+      "reported_at": "2026-07-12T10:32:00+00:00"
     },
     {
       "name": "Barking Splash Park",
@@ -187,8 +187,8 @@
       "name": "Gauging Square fountains, Wapping",
       "lat": 51.50734,
       "lon": -0.05437,
-      "status": "off",
-      "reported_at": "2026-07-24T12:05:00+00:00"
+      "status": "unknown",
+      "reported_at": null
     },
     {
       "name": "Goodman's Field fountains, Aldgate",
@@ -216,7 +216,7 @@
       "lat": 51.56088,
       "lon": -0.07946,
       "status": "off",
-      "reported_at": "2026-07-23T20:49:00+00:00"
+      "reported_at": "2026-07-04T14:35:00+00:00"
     },
     {
       "name": "Aldgate Square fountains",
@@ -244,7 +244,7 @@
       "lat": 51.51909,
       "lon": -0.0835,
       "status": "on",
-      "reported_at": "2026-07-19T12:39:00+00:00"
+      "reported_at": "2026-07-11T16:29:00+00:00"
     },
     {
       "name": "St Mary's Churchyard Park fountains, Elephant & Castle",
@@ -293,7 +293,7 @@
       "lat": 51.49428,
       "lon": -0.05759,
       "status": "on",
-      "reported_at": "2026-07-17T09:42:00+00:00"
+      "reported_at": "2026-06-28T16:00:00+00:00"
     },
     {
       "name": "Brockwell Park wet play, Lambeth",
@@ -418,8 +418,8 @@
       "name": "Diana Princess of Wales Memorial Fountain, Hyde Park",
       "lat": 51.50366,
       "lon": -0.17349,
-      "status": "off",
-      "reported_at": "2026-07-25T18:49:00+00:00"
+      "status": "on",
+      "reported_at": "2026-07-14T19:18:00+00:00"
     },
     {
       "name": "John Madejski Garden paddling pool, V&A, South Kensington",
@@ -516,8 +516,8 @@
       "name": "Edmond J Safra fountain court at Somerset House",
       "lat": 51.51101,
       "lon": -0.11701,
-      "status": "off",
-      "reported_at": "2026-07-17T17:47:00+00:00"
+      "status": "on",
+      "reported_at": "2026-06-22T20:41:00+00:00"
     },
     {
       "name": "Russell Square Gardens fountain, Bloomsbury",
