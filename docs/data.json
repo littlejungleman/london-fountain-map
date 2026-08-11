@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T23:30:15.672063+00:00",
+  "updated_at": "2026-08-11T01:19:36.697868+00:00",
   "fountains": [
     {
       "name": "Select fountain or splash pad",
@@ -257,8 +257,8 @@
       "name": "Elephant Springs water play, Elephant & Castle",
       "lat": 51.49511,
       "lon": -0.09824,
-      "status": "off",
-      "reported_at": "2026-08-06T19:35:00+00:00"
+      "status": "on",
+      "reported_at": "2026-06-18T10:03:00+00:00"
     },
     {
       "name": "Wimbledon Sprinkler Park",
@@ -363,7 +363,7 @@
       "lat": 51.42682,
       "lon": -0.05206,
       "status": "off",
-      "reported_at": "2026-08-08T10:46:00+00:00"
+      "reported_at": "2026-06-14T13:08:00+00:00"
     },
     {
       "name": "Greenwich Park Playground water play",
