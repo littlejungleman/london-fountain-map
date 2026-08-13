@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T08:49:30.516308+00:00",
+  "updated_at": "2026-08-13T09:59:15.664817+00:00",
   "fountains": [
     {
       "name": "Select fountain or splash pad",
@@ -166,15 +166,15 @@
       "name": "Victoria Park splash pool, Hackney",
       "lat": 51.53686,
       "lon": -0.04041,
-      "status": "off",
-      "reported_at": "2026-07-11T10:54:00+00:00"
+      "status": "on",
+      "reported_at": "2026-08-04T12:59:00+00:00"
     },
     {
       "name": "Tumbling Bay water play, Queen Elizabeth Olympic Park",
       "lat": 51.54483,
       "lon": -0.01889,
       "status": "on",
-      "reported_at": "2026-07-29T08:18:00+00:00"
+      "reported_at": "2026-08-04T12:59:00+00:00"
     },
     {
       "name": "Waterworks Fountains (West Ham Stadium), Queen Elizabeth Olympic Park",
@@ -257,8 +257,8 @@
       "name": "Elephant Springs water play, Elephant & Castle",
       "lat": 51.49511,
       "lon": -0.09824,
-      "status": "on",
-      "reported_at": "2026-06-18T10:03:00+00:00"
+      "status": "off",
+      "reported_at": "2026-08-06T19:35:00+00:00"
     },
     {
       "name": "Wimbledon Sprinkler Park",
@@ -363,7 +363,7 @@
       "lat": 51.42682,
       "lon": -0.05206,
       "status": "off",
-      "reported_at": "2026-06-14T13:08:00+00:00"
+      "reported_at": "2026-08-08T10:46:00+00:00"
     },
     {
       "name": "Greenwich Park Playground water play",
