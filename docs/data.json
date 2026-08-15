@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T05:49:44.075356+00:00",
+  "updated_at": "2026-08-15T06:29:53.093566+00:00",
   "fountains": [
     {
       "name": "Select fountain or splash pad",
@@ -145,8 +145,8 @@
       "name": "Kilburn Grange Park splash pad",
       "lat": 51.54783,
       "lon": -0.19501,
-      "status": "off",
-      "reported_at": "2026-05-27T15:04:00+00:00"
+      "status": "on",
+      "reported_at": "2026-08-12T19:39:00+00:00"
     },
     {
       "name": "Paradise Park splash pad, Islington",
@@ -167,21 +167,21 @@
       "lat": 51.53686,
       "lon": -0.04041,
       "status": "off",
-      "reported_at": "2026-07-11T10:54:00+00:00"
+      "reported_at": "2026-08-13T06:03:00+00:00"
     },
     {
       "name": "Tumbling Bay water play, Queen Elizabeth Olympic Park",
       "lat": 51.54483,
       "lon": -0.01889,
       "status": "on",
-      "reported_at": "2026-07-29T08:18:00+00:00"
+      "reported_at": "2026-08-14T13:38:00+00:00"
     },
     {
       "name": "Waterworks Fountains (West Ham Stadium), Queen Elizabeth Olympic Park",
       "lat": 51.53882,
       "lon": -0.01605,
-      "status": "off",
-      "reported_at": "2026-06-27T14:44:00+00:00"
+      "status": "on",
+      "reported_at": "2026-08-14T09:21:00+00:00"
     },
     {
       "name": "Gauging Square fountains, Wapping",
@@ -257,8 +257,8 @@
       "name": "Elephant Springs water play, Elephant & Castle",
       "lat": 51.49511,
       "lon": -0.09824,
-      "status": "on",
-      "reported_at": "2026-06-18T10:03:00+00:00"
+      "status": "off",
+      "reported_at": "2026-08-06T19:35:00+00:00"
     },
     {
       "name": "Wimbledon Sprinkler Park",
@@ -363,7 +363,7 @@
       "lat": 51.42682,
       "lon": -0.05206,
       "status": "off",
-      "reported_at": "2026-06-14T13:08:00+00:00"
+      "reported_at": "2026-08-08T10:46:00+00:00"
     },
     {
       "name": "Greenwich Park Playground water play",
@@ -565,8 +565,8 @@
       "name": "Jeppe Hein's Appearing Rooms, Southbank Centre",
       "lat": 51.5052,
       "lon": -0.11513,
-      "status": "unknown",
-      "reported_at": null
+      "status": "on",
+      "reported_at": "2026-08-12T09:33:00+00:00"
     },
     {
       "name": "Swanley Park water play, Swanley, Kent",
