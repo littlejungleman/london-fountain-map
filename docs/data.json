@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T23:47:14.227003+00:00",
+  "updated_at": "2026-08-22T00:58:55.588603+00:00",
   "fountains": [
     {
       "name": "Select fountain or splash pad",
@@ -61,8 +61,8 @@
       "name": "Whittington Park water play, Archway",
       "lat": 51.56736,
       "lon": -0.11913,
-      "status": "off",
-      "reported_at": "2026-07-26T15:17:00+00:00"
+      "status": "on",
+      "reported_at": "2026-08-17T12:02:00+00:00"
     },
     {
       "name": "Barnard Park water play, Islington",
@@ -75,8 +75,8 @@
       "name": "Animal Adventure water play at London Zoo, Camden Town",
       "lat": 51.53559,
       "lon": -0.15679,
-      "status": "on",
-      "reported_at": "2026-06-25T06:51:00+00:00"
+      "status": "off",
+      "reported_at": "2026-08-17T13:24:00+00:00"
     },
     {
       "name": "King Square Gardens splash pad, Islington",
@@ -257,8 +257,8 @@
       "name": "Elephant Springs water play, Elephant & Castle",
       "lat": 51.49511,
       "lon": -0.09824,
-      "status": "off",
-      "reported_at": "2026-08-06T19:35:00+00:00"
+      "status": "on",
+      "reported_at": "2026-08-17T15:42:00+00:00"
     },
     {
       "name": "Wimbledon Sprinkler Park",
@@ -425,8 +425,8 @@
       "name": "John Madejski Garden paddling pool, V&A, South Kensington",
       "lat": 51.49647,
       "lon": -0.17253,
-      "status": "unknown",
-      "reported_at": null
+      "status": "off",
+      "reported_at": "2026-08-21T23:22:00+00:00"
     },
     {
       "name": "Kensington Memorial Park water play area, Ladbroke Grove",
