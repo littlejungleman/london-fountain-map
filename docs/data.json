@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T01:10:47.432195+00:00",
+  "updated_at": "2026-09-06T06:14:39.949131+00:00",
   "fountains": [
     {
       "name": "Select fountain or splash pad",
@@ -41,7 +41,7 @@
       "lat": 51.58827,
       "lon": -0.11688,
       "status": "off",
-      "reported_at": "2026-05-29T12:07:00+00:00"
+      "reported_at": "2026-09-02T06:45:00+00:00"
     },
     {
       "name": "Lordship Recreation Ground paddling pool, Tottenham",
@@ -293,7 +293,7 @@
       "lat": 51.49428,
       "lon": -0.05759,
       "status": "on",
-      "reported_at": "2026-07-17T09:42:00+00:00"
+      "reported_at": "2026-09-05T10:42:00+00:00"
     },
     {
       "name": "Brockwell Park wet play, Lambeth",
